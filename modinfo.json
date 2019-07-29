@@ -12,5 +12,8 @@
   "forum": "https://forums.planetaryannihilation.com/threads/server-interplanetary-superiority-fighter.73403/",
   "priority": 50,
   "icon": "https://i.imgur.com/7DjpAZB.png",
-  "category": ["balance"]
+  "category": [
+    "balance",
+    "titans"
+  ]
 }
