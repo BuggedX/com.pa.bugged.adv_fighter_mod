@@ -1,0 +1,16 @@
+{
+  "context": "server",
+  "identifier": "com.pa.bugged.adv_fighter_mod",
+  "display_name": "Interplanetary Air Superiority Fighter",
+  "description": "Changes Phoenix/Firebird to fire at ground targets, with proper balancing",
+  "author": "Bugged",
+  "version": "1.0",
+  "titansOnly": true,
+  "build": "113410",
+  "date": "2019-07-29",
+  "signature": "not yet implemented",
+  "forum": "https://forums.planetaryannihilation.com/threads/server-interplanetary-superiority-fighter.73403/",
+  "priority": 50,
+  "icon": "https://i.imgur.com/7DjpAZB.png",
+  "category": ["balance"]
+}
